@@ -9,6 +9,8 @@ This project provides a modular, Python-based synthetic dataset generator design
 * Extensive Data Domains: Supports Demographics, Health Metrics, Geography, Products, Commerce, and IT/System Data.
 * Instant Export: Automatically generates a timestamped CSV file containing your customized dataset.
 * Preview Integration: Displays a sample of the generated DataFrame directly within the notebook output.
+## Demo
+![Demo of GEn - Synthetic Dataset Generator](https://github.com/allubie/GEn/blob/main/demo/Recording%202026-05-02%20181538.gif)
 
 ## Requirements
 
